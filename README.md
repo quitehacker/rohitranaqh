@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Rana.
 - 👀 I’m interested in Technology, Cyber Security & Sci-Fi Stuff.
 - 🌱 I’m currently doing PortSwigger's Web Academy Course.
-- 💞️ I’m looking to collaborate on Password Crackers Tools.
+- 💞️ I’m looking to collaborate on Keylogger Project in Python.
 - 📫 To reach me look for @QuiteHacker on Instagram, Twitter or Telegram.
 
 <!---
